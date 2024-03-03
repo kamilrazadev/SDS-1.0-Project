@@ -1,0 +1,51 @@
+.nav-bar {
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.374);
+    background-color: transparent !important;
+    backdrop-filter: blur(10px);
+}
+
+.brand-name {
+    font-weight:bold;
+    color: #6e00ff;
+    margin: 0;
+    margin-left: 8px;
+}
+
+.brand-icon {
+    font-size: 40px;
+}
+
+.nav-user {
+    font-weight: bolder;
+    margin: 0 20px;
+    color: #6e00ff;
+}
+
+.nav-link:hover {
+    color: #6e00ff !important;
+}
+
+.btn-secondary-custom {
+    background-color: white !important;
+    color: #6e00ff !important;
+    border: none !important;
+    border: 1px solid #6e00ff !important;
+}
+
+.btn-secondary-custom:hover {
+    color: white !important;
+    background-color: #6e00ff !important;
+}
+
+.btn-primary-custom {
+    color: white !important;
+    background-color: #6e00ff !important;
+    border: none !important;
+    border: 1px solid #6e00ff !important;
+}
+
+.btn-primary-custom:hover {
+
+    background-color: white !important;
+    color: #6e00ff !important;
+}

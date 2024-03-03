@@ -1,0 +1,18 @@
+.course-title {
+    color: grey;
+    text-align: center;
+}
+
+.btn-primary-custom {
+    width: fit-content;
+    color: white !important;
+    background-color: #6e00ff !important;
+    border: none !important;
+    border: 1px solid #6e00ff !important;
+}
+
+.btn-primary-custom:hover {
+
+    background-color: white !important;
+    color: #6e00ff !important;
+}
